@@ -4,7 +4,7 @@
         "image": "weatherapp",
         "links": {
             "view": "https://m7md-abo-jacob.github.io/react-weather-app/",
-            "code": "https://github.com/M7MD-abo-jacob/react-weather-app/"
+            "code": "https://github.com/M7MD-abo-jacob/react-weather-app-code"
         }
     },
     {
@@ -13,7 +13,7 @@
         "image": "minesweeper",
         "links": {
             "view": "https://m7md-abo-jacob.github.io/mineSweeper/",
-            "code": "https://github.com/M7MD-abo-jacob/mineSweeper/"
+            "code": "https://github.com/M7MD-abo-jacob/mineSweeper"
         }
     },
     {
@@ -22,7 +22,7 @@
         "image": "portfolio",
         "links": {
             "view": "https://m7md-abo-jacob.github.io/Responsive-Portfolio/",
-            "code": "https://github.com/M7MD-abo-jacob/Responsive-Portfolio"
+            "code": "https://github.com/M7MD-abo-jacob/responsive-portfolio-code"
         }
     }
 ]
