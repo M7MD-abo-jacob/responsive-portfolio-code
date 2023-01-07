@@ -1,0 +1,71 @@
+.contact-info {
+    margin-top: 10%;
+}
+
+.contact-info img {
+    margin-bottom: 15%;
+}
+
+.contact-info h2 {
+    margin-bottom: 10%;
+}
+
+.contact-form label {
+    font-weight: 600;
+}
+
+.contact-form button {
+    background: #ff9b00;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+
+.contact-form button:hover {
+    background-color: #cc7a00;
+}
+
+.contact-form button:focus {
+    box-shadow: none;
+}
+
+.col-md-3 {
+    background: #ff9b00;
+    padding: 4%;
+    /* border-start-start-radius: 0.5rem;
+    border-start-end-radius: 0;
+    border-end-end-radius: 0;
+    border-end-start-radius: 0.5rem; */
+}
+
+.col-md-9 {
+    padding: 3%;
+    /* border-start-start-radius: 0;
+    border-start-end-radius: 0.5rem;
+    border-end-end-radius: 0.5rem;
+    border-end-start-radius: 0; */
+}
+
+@media only screen and (max-width: 767px) {
+    .contact-info {
+        margin-top: 2%;
+    }
+    .contact-info img {
+        margin-bottom: 2%;
+    }
+    .contact-info h2 {
+        margin-bottom: 2%;
+    }
+    /* .col-md-3 {
+        border-start-start-radius: 0.5rem;
+        border-start-end-radius: 0.5rem;
+        border-end-end-radius: 0;
+        border-end-start-radius: 0;
+    }
+    .col-md-9 {
+        border-start-start-radius: 0;
+        border-start-end-radius: 0;
+        border-end-end-radius: 0.5rem;
+        border-end-start-radius: 0.5rem;
+    } */
+}
