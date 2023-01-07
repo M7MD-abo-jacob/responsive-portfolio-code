@@ -1,10 +1,19 @@
 [{
         "name": "Weather App",
-        "desc": "This website was made to try out React's functional components and hooks instead of the old class components.",
+        "desc": "a beautiful react weather app with dynamic weather animations.",
         "image": "weatherapp",
         "links": {
             "view": "https://m7md-abo-jacob.github.io/react-weather-app/",
             "code": "https://github.com/M7MD-abo-jacob/react-weather-app-code"
+        }
+    },
+    {
+        "name": "uShopia",
+        "desc": "an ecommerce website made with react, bootstrap, redux toolkit and more.",
+        "image": "ushopia",
+        "links": {
+            "view": "https://u-shopia.vercel.app/",
+            "code": "https://m7md-abo-jacob.github.io/uShopia/"
         }
     },
     {
