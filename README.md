@@ -1,9 +1,10 @@
-#Hi there!
+#Hello there!
 
 ## About this website
 - An ecommerce website that uses dummy data from [fakestoreapi](fakestoreapi.com)
+- It has some cool features like dark mode, color themes, two EN/AR support, and more.
 
-## Technologies used:
+## Technologies used
 - ReactJs
 - Redux-toolkit
 - React-router
